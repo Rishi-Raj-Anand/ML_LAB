@@ -1,2 +1,2 @@
 # ML_LAB
-It contains all ML LABS Notebooks
+It  all ML LABS Notebooks of Sem 6
