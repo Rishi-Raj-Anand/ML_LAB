@@ -1,2 +1,2 @@
 # ML_LAB
-It  all ML LABS Notebooks of Sem 6
+ML LAB Notebooks of Sem 6
